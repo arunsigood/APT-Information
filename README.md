@@ -14,3 +14,9 @@ https://www.forcepoint.com/sites/default/files/resources/files/forcepoint-securi
 
 Under the scope
 https://download.bitdefender.com/resources/media/materials/white-papers/en/Bitdefender_In-depth_analysis_of_APT28%E2%80%93The_Political_Cyber-Espionage.pdf
+
+
+## Equation Group
+
+https://www.cs.bu.edu/~goldbe/teaching/HW55815/presos/eqngroup.pdf
+http://newsroom.kaspersky.eu/fileadmin/user_upload/es/Downloads/Kaspersky_Press_release_equationgroupOK.pdf
