@@ -23,3 +23,9 @@
 - https://kc.mcafee.com/resources/sites/MCAFEE/content/live/PRODUCT_DOCUMENTATION/25000/PD25037/en_US/McAfee_Labs_Threat_Advisory_Careto_Attack_The%20Mask_3.pdf
 
 - https://kasperskycontenthub.com/wp-content/uploads/sites/43/vlpdfs/unveilingthemask_v1.0.pdf
+
+
+## Middle East
+
+2018/06 - 
+  https://www.icebrg.io/blog/adobe-flash-zero-day-targeted-attack
